@@ -7,6 +7,11 @@ public class Goo {
 		int b=20;
 		int c=a+b;
 			System.out.println(c);
+			
+			int z=10;
+			int ab=10;
+			int v=z+ab;
+			System.out.println(v);
 		}
 
 }
